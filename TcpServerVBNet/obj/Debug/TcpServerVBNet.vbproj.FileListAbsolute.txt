@@ -1,0 +1,14 @@
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\bin\Debug\TcpServerVBNet.exe.config
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\bin\Debug\TcpServerVBNet.exe
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\bin\Debug\TcpServerVBNet.pdb
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\bin\Debug\TcpServerVBNet.xml
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.vbprojAssemblyReference.cache
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.FormMain.resources
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.Resources.resources
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.vbproj.GenerateResource.cache
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.vbproj.CoreCompileInputs.cache
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.exe
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.xml
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.pdb
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\bin\Debug\Newtonsoft.Json.dll
+D:\My Projects\TcpServerVBNet\TcpServerVBNet\obj\Debug\TcpServerVBNet.vbproj.CopyComplete
